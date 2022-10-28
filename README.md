@@ -15,4 +15,4 @@ This application is built using Reactjs with normal calculator functionalities.w
 In the "hamburger" button on the top left, there are options: "Dark/Light" mode, "Log" that shows past calculation.
 
 ![Alt text](img/dark.png?raw=true "darkmode")
-![Alt text](img/light.png?raw=true "darkmode")
+![Alt text](img/light1.png?raw=true "darkmode")
