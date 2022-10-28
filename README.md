@@ -16,3 +16,7 @@ In the "hamburger" button on the top left, there are options: "Dark/Light" mode,
 
 ![Alt text](img/dark.png?raw=true "darkmode")
 ![Alt text](img/light1.png?raw=true "darkmode")
+
+Project is built in reference to:
+https://github.com/thellecodes/calculator-using-react
+https://www.youtube.com/watch?v=hpfDRnijdPE&t=1105s
